@@ -1,5 +1,5 @@
 function Home(){
-    return <div>Licenses</div>
+    return <div>Licenses testes</div>
 }
 
 export default Home
