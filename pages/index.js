@@ -1,4 +1,5 @@
 function Home(){
-    return <div>PIPOCA! again...</div>
+    return <div>PIPOCA!</div>
 }
 
+export default Home
