@@ -1,8 +1,14 @@
-const express = require('express');
+import myexpress from '../lib/myexpress';
 
+export async function getStaticProps(){
+    const express = require('express');
+    return {
+        message,
+    }
+}
 
-function Home(){
+export default function Home({message}){
+//function Home(){
     return <div>PIPOCA!</div>
 }
 
-export default Home
