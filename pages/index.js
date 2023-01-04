@@ -13,7 +13,7 @@
 
 
 function Home() {
-    return <div>PIPOCA!</div>
+    return <div>PIPOCA agora!</div>
 }
 
 export default Home
